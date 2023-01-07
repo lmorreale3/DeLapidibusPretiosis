@@ -1,0 +1,13 @@
+{
+  "id" : "https://lmorreale3.github.io/DeLapidibusPretiosis/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lmorreale3/DeLapidibusPretiosis project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lmorreale3.github.io/DeLapidibusPretiosis/manifests/Delapidibuspretiosis.json",
+    "label" : "[Thesaurus pauperum, in Italian ; Nicolaus, Experimenta in Italian ; On the medicinal value of precious stones ; Medicina che fa partuire la femina ...; Medical treatise ... in Italian ... part of the falconry of King Dancus ; Albertus Magnus, De lapidibus pretiosis, in Italian ; Astrological miscellany in Italian ...]"
+  } ]
+}
