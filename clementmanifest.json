@@ -1,0 +1,228 @@
+{
+	"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/manifest.json",
+	"label": "BnF, département Philosophie, histoire, sciences de l'homme, Fol Ld16 48 (A)",
+	"attribution": "Bibliothèque nationale de France",
+	"license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+	"logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+	"related": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219",
+	"seeAlso": [
+		"http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/bpt6k1086219"
+	],
+	"description": "Bibliotheca cluniacensis : in qua SS. patrum abb. clun. vitae, miracula, scripta, statuta, privilegia chronologiaque duplex,... / nunc primum ex ms. codd. collegerunt Domnus Martinus Marrier,... ; &amp; Andreas Quercetanus,... [André Duchesne] qui eadem disposuit ac notis illustravit",
+	"metadata": [
+		{
+			"label": "Repository",
+			"value": "Bibliothèque nationale de France"
+		},
+		{
+			"label": "Digitised by",
+			"value": "Bibliothèque nationale de France"
+		},
+		{
+			"label": "Source Images",
+			"value": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219"
+		},
+		{
+			"label": "Metadata Source",
+			"value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/bpt6k1086219"
+		},
+		{
+			"label": "Shelfmark",
+			"value": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, Fol Ld16 48 (A)"
+		},
+		{
+			"label": "Title",
+			"value": "Bibliotheca cluniacensis : in qua SS. patrum abb. clun. vitae, miracula, scripta, statuta, privilegia chronologiaque duplex,... / nunc primum ex ms. codd. collegerunt Domnus Martinus Marrier,... ; &amp; Andreas Quercetanus,... [André Duchesne] qui eadem disposuit ac notis illustravit"
+		},
+		{
+			"label": "Date",
+			"value": "1915"
+		},
+		{
+			"label": "Language",
+			"value": "latin"
+		},
+		{
+			"label": "Format",
+			"value": [
+				{
+					"@value": "2 parties en 1 vol. (XXIV-1900-184 p.) : front. ; in-fol."
+				},
+				{
+					"@value": "Nombre total de vues :  1069"
+				}
+			]
+		},
+		{
+			"label": "Creator",
+			"value": "Marrier, Martin (1572-1644). Auteur du texte"
+		},
+		{
+			"label": "Relation",
+			"value": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34051594r"
+		},
+		{
+			"label": "Type",
+			"value": "Book"
+		}
+	],
+	"sequences": [
+		{
+			"canvases": [
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f767",
+					"label": "1481",
+					"height": 4961,
+					"width": 3508,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f767",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f767"
+								},
+								"height": 4961,
+								"width": 3508,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f767/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f767.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				},
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f768",
+					"label": "1483",
+					"height": 4961,
+					"width": 3508,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f768",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f768"
+								},
+								"height": 4961,
+								"width": 3508,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f768/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f768.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				},
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f769",
+					"label": "1485",
+					"height": 4961,
+					"width": 3508,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f769",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f769"
+								},
+								"height": 4961,
+								"width": 3508,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f769/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f769.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				},
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f770",
+					"label": "1487",
+					"height": 4961,
+					"width": 3508,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f770",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f770"
+								},
+								"height": 4961,
+								"width": 3508,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f770/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f770.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				},
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f771",
+					"label": "1489",
+					"height": 4961,
+					"width": 3508,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/canvas/f771",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f771"
+								},
+								"height": 4961,
+								"width": 3508,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/f771/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219/f771.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				}
+			],
+			"label": "Current Page Order",
+			"@type": "sc:Sequence",
+			"@id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1086219/sequence/default"
+		}
+	],
+	"thumbnail": {
+		"@id": "https://gallica.bnf.fr/ark:/12148/bpt6k1086219.thumbnail"
+	},
+	"@type": "sc:Manifest",
+	"@context": "http://iiif.io/api/presentation/2/context.json"
+}
